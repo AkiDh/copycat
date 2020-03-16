@@ -1,0 +1,13 @@
+main {
+    background-color:rgba(211, 208, 203, 1);
+}
+section {
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+figcaption {
+    text-align:center;
+}

@@ -1,0 +1,49 @@
+header {
+    width:100%
+    
+}
+
+header a {
+    text-decoration:none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    min-width:30%; 
+    
+}
+
+nav {
+    background-color:saddlebrown;
+}
+
+.logo {
+    background-color:rgba(159, 177, 188, 1);
+    border:solid 4px rgba(46, 82, 102, 1);
+}
+
+.cpTitle {
+    background-color:rgba(159, 177, 188, 1);
+    font-size: 5em;
+    text-transform:uppercase;
+    letter-spacing:10px;
+    color:black;
+    width:auto;
+    
+}
+
+nav a {
+    background-color:rgba(46, 82, 102, 1);
+    color:#fff;
+    font-size:1.4em;
+    
+}
+
+header a:hover {
+    text-decoration:underline;
+}
+
+.banner {
+    display:flex;
+    width:100%;
+    border-top:solid 6px rgba(226, 192, 68, 1);
+}
